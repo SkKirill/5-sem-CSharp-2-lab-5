@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Partially-Ordered-List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19224b0a5f40e7e908530140bc364a68c8bb91e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb39cdf652473ee4da347005962c9abe9bf5b6a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Partially-Ordered-List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Partially-Ordered-List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,5 @@
 ﻿using Partially_Ordered_List.Exceptions;
 using System.Collections;
-using System.Collections.Generic;
-using System.Runtime.ExceptionServices;
 
 namespace Partially_Ordered_List.Lists
 {
@@ -15,7 +13,7 @@ namespace Partially_Ordered_List.Lists
 
 		public LinkedList()
 		{
-			_partiallyLists = [];
+			_partiallyLists = new Dictionary<int, LinkedListNode<T>>();
 			Count = 0;
 		}
 
@@ -25,9 +23,9 @@ namespace Partially_Ordered_List.Lists
 		{
 			get
 			{
-				if (index <= 0 || index > Count)
+				if (index < 0 || index >= Count)
 				{
-					throw new IndexOutOfRangeException("индекс находится за пределами допустимого значения");
+					throw new OutOfRangeListException();
 				}
 
 				var i = 0;
@@ -55,7 +53,7 @@ namespace Partially_Ordered_List.Lists
 			}
 			set 
 			{
-				if (index < 0 || index > Count)
+				if (index < 0 || index >= Count)
 				{
 					throw new OutOfRangeListException();
 				}
@@ -88,21 +86,14 @@ namespace Partially_Ordered_List.Lists
 
 		public int Add(int keyPartially, T value)
 		{
-			LinkedListNode<T> newNode = new LinkedListNode<T>(value);
 			if (_partiallyLists[keyPartially] is null)
 			{
-				_partiallyLists[keyPartially] = newNode;
+				_partiallyLists[keyPartially] = new LinkedListNode<T>(value);
 			}
 			else
 			{
-				var current = _partiallyLists[keyPartially];
-				while (current.Next != null)
-				{
-					current = current.Next;
-				}
-
-				current.Next = newNode;
-				newNode.Next = null;
+				var list = _partiallyLists[keyPartially];
+				AddToParticallyListSort(ref list, value);
 			}
 			Count++;
 			return Count;
@@ -154,7 +145,7 @@ namespace Partially_Ordered_List.Lists
 
 		public void Insert(int index, T value)
 		{
-			if (index <= 0 || index > Count)
+			if (index < 0 || index >= Count)
 			{
 				throw new OutOfRangeListException();
 			}
@@ -179,10 +170,10 @@ namespace Partially_Ordered_List.Lists
 			if (current is null)
 				throw new NullReferenceListException();
 
-			AddToParticallyList(ref current, value);
+			AddToParticallyListSort(ref current, value);
 		}
 
-		private void AddToParticallyList(ref LinkedListNode<T> particallyList, T? value)
+		private void AddToParticallyListSort(ref LinkedListNode<T> particallyList, T? value)
 		{
 			if (value is null)
 				return;
@@ -268,7 +259,7 @@ namespace Partially_Ordered_List.Lists
 
 		public IList<T> SubList(int fromIndex, int toIndex)
 		{
-			if (fromIndex <= 0 || toIndex > Count || fromIndex > toIndex)
+			if (fromIndex < 0 || toIndex >= Count || fromIndex > toIndex)
 			{
 				throw new OutOfRangeListException();
 			}

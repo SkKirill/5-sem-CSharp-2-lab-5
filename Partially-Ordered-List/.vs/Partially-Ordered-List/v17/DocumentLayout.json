@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\exceptions\\notfoundlistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\exceptions\\notfoundlistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\testprogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\testprogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\lists\\ilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +27,32 @@
       "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\unmutablelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\exceptions\\listexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\exceptions\\listexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\exceptions\\unmutablelistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\exceptions\\unmutablelistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\utilites\\listutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\utilites\\listutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\utilites\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\utilites\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\exceptions\\outofrangelistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\exceptions\\outofrangelistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\exceptions\\notfoundlistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\exceptions\\notfoundlistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\exceptions\\nullreferencelistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\exceptions\\nullreferencelistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\exceptions\\listexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\exceptions\\listexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +62,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:34:02.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnmutableListException.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\UnmutableListException.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Exceptions\\UnmutableListException.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\UnmutableListException.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Exceptions\\UnmutableListException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:33:53.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NullReferenceListException.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\NullReferenceListException.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Exceptions\\NullReferenceListException.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\NullReferenceListException.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Exceptions\\NullReferenceListException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:33:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListUtils.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:09:39.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProgramm.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\TestProgramm.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\TestProgramm.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\TestProgramm.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\TestProgramm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:08:07.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\ArrayList.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\ArrayList.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\ArrayList.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Lists\\ArrayList.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwIsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:31:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IList.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\IList.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\IList.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\IList.cs",
               "RelativeToolTip": "Partially-Ordered-List\\Lists\\IList.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAlwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T11:24:24.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LinkedListNode.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\LinkedListNode.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\LinkedListNode.cs",
@@ -68,26 +170,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UnmutableList.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\UnmutableList.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\UnmutableList.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\UnmutableList.cs",
               "RelativeToolTip": "Partially-Ordered-List\\Lists\\UnmutableList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T11:15:56.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ListException.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\ListException.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Exceptions\\ListException.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\ListException.cs",
               "RelativeToolTip": "Partially-Ordered-List\\Exceptions\\ListException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T11:10:07.654Z",
               "EditorCaption": ""
@@ -100,14 +202,14 @@
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\LinkedList.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\LinkedList.cs",
               "RelativeToolTip": "Partially-Ordered-List\\Lists\\LinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAIwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T11:09:26.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "OutOfRangeListException.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\OutOfRangeListException.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Exceptions\\OutOfRangeListException.cs",
@@ -120,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "NotFoundListException.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Exceptions\\NotFoundListException.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Exceptions\\NotFoundListException.cs",
