@@ -86,17 +86,48 @@ namespace Partially_Ordered_List.Lists
 
 		public int Add(int keyPartially, T value)
 		{
-			if (_partiallyLists[keyPartially] is null)
+			if (!_partiallyLists.TryGetValue(keyPartially, out var list))
 			{
-				_partiallyLists[keyPartially] = new LinkedListNode<T>(value);
+				_partiallyLists[keyPartially] = new(value);
 			}
 			else
 			{
-				var list = _partiallyLists[keyPartially];
 				AddToParticallyListSort(ref list, value);
+				_partiallyLists[keyPartially] = list;
 			}
 			Count++;
 			return Count;
+		}
+
+		private void AddToParticallyListSort(ref LinkedListNode<T> particallyList, T? value)
+		{
+			if (value is null)
+				return;
+
+			if (particallyList.Value.CompareTo(value) == -1)
+			{
+				LinkedListNode<T>? newNode = new(value)
+				{
+					Next = particallyList
+				};
+
+				particallyList = newNode;
+			}
+			else
+			{
+				var current = particallyList;
+				while (current.Next is not null && current.Next.Value.CompareTo(value) == 1)
+				{
+					current = current.Next;
+				}
+
+				LinkedListNode<T>? newNode = new(value)
+				{
+					Next = current.Next
+				};
+
+				current.Next = newNode;
+			}
 		}
 
 		public void Clear()
@@ -155,7 +186,7 @@ namespace Partially_Ordered_List.Lists
 			foreach (var particallyList in _partiallyLists)
 			{
 				current = particallyList.Value;
-				for (; i < Count; i++)
+				for (; i < index; i++)
 				{
 					if (current == null)
 						break;
@@ -163,46 +194,17 @@ namespace Partially_Ordered_List.Lists
 					current = current.Next;
 				}
 
-				if (i == index)
-					break;
-			}
+				if (i != index)
+					continue;
 
-			if (current is null)
-				throw new NullReferenceListException();
+				current = particallyList.Value;
 
-			AddToParticallyListSort(ref current, value);
-		}
-
-		private void AddToParticallyListSort(ref LinkedListNode<T> particallyList, T? value)
-		{
-			if (value is null)
+				AddToParticallyListSort(ref current, value);
+				_partiallyLists[particallyList.Key] = current;
 				return;
-
-			if (particallyList.Value.CompareTo(value) == -1)
-			{
-				LinkedListNode<T>? newNode = new(value)
-				{
-					Next = particallyList
-				};
-
-				particallyList = newNode;
-			}
-			else
-			{
-				var current = particallyList;
-				while (current.Next is not null && current.Next.Value.CompareTo(value) == -1)
-				{
-					current = current.Next;
-				}
-
-				LinkedListNode<T>? newNode = new(value)
-				{
-					Next = current.Next
-				};
-
-				current.Next = newNode;
 			}
 
+			throw new NotFoundListException();
 		}
 
 		public void Remove(T value)
@@ -226,7 +228,7 @@ namespace Partially_Ordered_List.Lists
 			foreach (var particallyList in _partiallyLists)
 			{
 				LinkedListNode<T>? linkedListNode = particallyList.Value;
-				for (; i < index; i++)
+				for (; i < index - 1; i++)
 				{
 					if (linkedListNode is null)
 						break;
@@ -234,7 +236,7 @@ namespace Partially_Ordered_List.Lists
 					linkedListNode = linkedListNode.Next;
 				}
 
-				if (i != index)
+				if (i != index - 1)
 					continue;
 
 				if (!first && linkedListNode?.Next is null)
@@ -249,7 +251,7 @@ namespace Partially_Ordered_List.Lists
 				}
 				else
 				{
-					linkedListNode = linkedListNode?.Next;
+					linkedListNode.Next = linkedListNode?.Next?.Next;
 				}
 
 				Count--;

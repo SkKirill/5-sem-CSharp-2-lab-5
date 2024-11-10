@@ -70,7 +70,17 @@ namespace Partially_Ordered_List.Lists
 			else
 			{
 				Array.Resize(ref list, list.Length + 1);
-				list[^1] = value;
+
+				int index = 0;
+				while (index <= Count && list[index].CompareTo(value) == 1)
+				{
+					index++;
+				}
+
+				for (int i = list.Length - 1; index + 1 <= i ; i--)
+					list[i] = list[i - 1];
+
+				list[index] = value;
 				_partiallyLists[keyPartially] = list;
 			}
 			Count++;
@@ -123,53 +133,14 @@ namespace Partially_Ordered_List.Lists
 			{
 				T[] list = _partiallyLists[key];
 
-				if (index < i + list.Length)
+				i = i + list.Length;
+				
+				if (i > index)
 				{
-					// Массив достаточно длинный, чтобы вставить элемент
-					var newList = new T[list.Length + 1];
-					Array.Copy(list, newList, index - i); // копируем элементы до индекса вставки
-					newList[index - i] = value; // вставляем новый элемент
-					Array.Copy(list, index - i, newList, index - i + 1, list.Length - (index - i)); // копируем оставшиеся элементы
-
-					_partiallyLists[key] = newList;
-					Count++;
+					Add(key, value);
 					return;
 				}
-
-				i += list.Length;
 			}
-		}
-
-		private void AddToParticallyList(ref LinkedListNode<T> particallyList, T? value)
-		{
-			if (value is null)
-				return;
-
-			if (particallyList.Value.CompareTo(value) == -1)
-			{
-				LinkedListNode<T>? newNode = new(value)
-				{
-					Next = particallyList
-				};
-
-				particallyList = newNode;
-			}
-			else
-			{
-				var current = particallyList;
-				while (current.Next is not null && current.Next.Value.CompareTo(value) == -1)
-				{
-					current = current.Next;
-				}
-
-				LinkedListNode<T>? newNode = new(value)
-				{
-					Next = current.Next
-				};
-
-				current.Next = newNode;
-			}
-
 		}
 
 		public void Remove(T value)
