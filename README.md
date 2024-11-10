@@ -95,5 +95,5 @@ Partially-Ordered-List/
 { 1, 2, 'a', 'b'} 
 ('a' < 'b'; 1 < 2) , а уже числа и буквы между собой стравнить нельзя.
 
-> (Также про частично упорядоченные множества можно прочитать тут)[https://math.mosolymp.ru/upload/files/2024/khamovniki/10/2024-02-12-POSets-10-1.pdf]
+[Также про частично упорядоченные множества можно прочитать тут](https://math.mosolymp.ru/upload/files/2024/khamovniki/10/2024-02-12-POSets-10-1.pdf)
 
