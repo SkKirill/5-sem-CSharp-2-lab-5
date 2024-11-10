@@ -72,7 +72,7 @@ namespace Partially_Ordered_List.Lists
 				Array.Resize(ref list, list.Length + 1);
 
 				int index = 0;
-				while (index <= Count && list[index].CompareTo(value) == 1)
+				while (index < Count && list[index].CompareTo(value) == 1)
 				{
 					index++;
 				}

@@ -228,22 +228,17 @@ namespace Partially_Ordered_List.Lists
 			foreach (var particallyList in _partiallyLists)
 			{
 				LinkedListNode<T>? linkedListNode = particallyList.Value;
+				first = true;
 				for (; i < index - 1; i++)
 				{
 					if (linkedListNode is null)
 						break;
-
+					first = false;
 					linkedListNode = linkedListNode.Next;
 				}
 
-				if (i != index - 1)
+				if (i != 0 && i != index - 1)
 					continue;
-
-				if (!first && linkedListNode?.Next is null)
-				{
-					first = true;
-					continue;
-				}
 
 				if (first)
 				{

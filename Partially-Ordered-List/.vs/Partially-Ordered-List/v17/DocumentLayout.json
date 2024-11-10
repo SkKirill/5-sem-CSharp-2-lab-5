@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\lists\\ilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\ilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\testprogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\testprogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\utilites\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\utilites\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\utilites\\listutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\utilites\\listutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\5\\partially-ordered-list\\partially-ordered-list\\lists\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6A98C-404F-4A19-AEEB-91866224FBA5}|Partially-Ordered-List\\Partially-Ordered-List.csproj|solutionrelative:partially-ordered-list\\lists\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Utilites\\TestClass.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:20:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinkedListNode.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\LinkedListNode.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\LinkedListNode.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\LinkedListNode.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Lists\\LinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:52:39.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IList.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\IList.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\IList.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\IList.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Lists\\IList.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:45:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\LinkedList.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\LinkedList.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\LinkedList.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Lists\\LinkedList.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwv+8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:43:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListUtils.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "RelativeDocumentMoniker": "Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "RelativeToolTip": "Partially-Ordered-List\\Utilites\\ListUtils.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:32:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TestProgramm.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\TestProgramm.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\TestProgramm.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\TestProgramm.cs",
               "RelativeToolTip": "Partially-Ordered-List\\TestProgramm.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAjwEkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T17:08:07.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ArrayList.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\ArrayList.cs",
               "RelativeDocumentMoniker": "Partially-Ordered-List\\Lists\\ArrayList.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\5\\Partially-Ordered-List\\Partially-Ordered-List\\Lists\\ArrayList.cs",
               "RelativeToolTip": "Partially-Ordered-List\\Lists\\ArrayList.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAuwI0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAawE0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T15:31:14.63Z",
               "EditorCaption": ""
