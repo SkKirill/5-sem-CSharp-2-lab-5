@@ -2,8 +2,7 @@
 {
 	public class UnmutableListException : ListException
 	{
-		public UnmutableListException() { }
-
-		public UnmutableListException(string message) : base(message) { }
+		public UnmutableListException() : base("Ошибка! Вы пытаетесь изменить неизвеняемый " +
+			"список, данное действие невозможно!") { }
 	}
 }

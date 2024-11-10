@@ -62,7 +62,7 @@ Partially-Ordered-List/
 │   ├── LinkedList.cs
 │   ├── UnmuntadleList.cs
 │   └── IList.cs
-├── Exception/
+├── Exceptions/
 │   ├── IsNullException.cs
 │   ├── ListException.cs
 │   ├── NotFoundException.cs

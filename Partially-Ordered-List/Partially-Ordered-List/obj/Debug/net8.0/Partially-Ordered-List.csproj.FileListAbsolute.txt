@@ -1,0 +1,15 @@
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.AssemblyInfoInputs.cache
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.AssemblyInfo.cs
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.csproj.CoreCompileInputs.cache
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.sourcelink.json
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\bin\Debug\net8.0\Partially-Ordered-List.exe
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\bin\Debug\net8.0\Partially-Ordered-List.deps.json
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\bin\Debug\net8.0\Partially-Ordered-List.runtimeconfig.json
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\bin\Debug\net8.0\Partially-Ordered-List.dll
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\bin\Debug\net8.0\Partially-Ordered-List.pdb
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.dll
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\refint\Partially-Ordered-List.dll
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.pdb
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\Partially-Ordered-List.genruntimeconfig.cache
+D:\VSU-Labs-git\5-sem\CSharp\2-lab\5\Partially-Ordered-List\Partially-Ordered-List\obj\Debug\net8.0\ref\Partially-Ordered-List.dll
